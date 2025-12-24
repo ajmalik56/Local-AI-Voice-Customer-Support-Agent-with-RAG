@@ -53,12 +53,7 @@ The agent will search your PDFs, embed relevant sections, reason using a local L
 - Clean chat interface (text + voice)
 - Document upload system  
 - Saves session history  
-
-### 🌐 FastAPI Backend
-- `/chat` endpoint  
-- `/voice` endpoint  
-- `/recommend` endpoint  
-- Connectable with apps, CRMs, support systems  
+ 
 
 ### 💾 Persistent Session Storage
 - Saves embeddings, chat history, and RAG cache  
