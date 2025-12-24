@@ -32,7 +32,6 @@ The agent will search your PDFs, embed relevant sections, reason using a local L
 ## 🌟 Features
 
 ### 🧠 Local LLM-Powered Reasoning
-- Runs **Mistral 7B Instruct (GGUF)** using `llama-cpp-python`
 - Multi-turn conversational memory  
 - Handles troubleshooting, FAQs, product comparisons  
 
